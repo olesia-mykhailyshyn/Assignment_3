@@ -14,7 +14,7 @@ int main() {
             break;
         }
         else if (command == "cipher") {
-            cout << "Please enter the key:";
+            cout << "Please enter the integer key:";
             int key;
             cin >> key;
 
